@@ -1,0 +1,11 @@
+# Database dumps and backups
+*.tar
+*.dump
+*.backup
+billingdata.sql
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
